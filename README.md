@@ -1,4 +1,3 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) DSI -10 Capstone Project
 ## Auto Bird Recogniser using only audio file with Neural Networks
 #### Gouri Krishnamoorthy
 
